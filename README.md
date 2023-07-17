@@ -27,6 +27,18 @@ Make sure you have the following installed before running the script:
 git clone https://github.com/ademz/my-password-storage.git
 ```
 
+2. Change into the project directory:
+   
+```bash
+cd my-password-storage
+```
+
+3. Run the script:
+```bash
+python passwdstorage.py set new_password
+```
+
+
 ## Acknowledgments
 
 This script was inspired by the need for a secure and convenient way to generate and store passwords. It utilizes the simplecrypt and pycryptodome library, which provides a straightforward encryption solution.
