@@ -9,6 +9,7 @@ This is a simple Python script that generates random passwords and securely stor
 - Generates random passwords with customizable length and complexity.
 - Utilizes the `simplecrypt` and `pycryptodome` libraries for secure encryption and decryption.
 - Stores encrypted passwords in a file for easy retrieval.
+- Retrieves encrypted passwords into clipboard for immediate use. (`pbcopy` for mac, `xclip` for linux)
 - Provides a simple command-line interface for password generation and retrieval.
 
 ## Prerequisites
