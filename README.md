@@ -16,7 +16,7 @@ This is a simple Python script that generates random passwords and securely stor
 
 Make sure you have the following installed before running the script:
 
-- Python 3.x
+- Python 3.9
 - `simplecrypt` library (install using `pip install simple-crypt`)
 - `pycryptodome` (install using `pip install pycryptodome`)
 
